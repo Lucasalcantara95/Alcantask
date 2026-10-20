@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AlcanTasks.Api/AlcanTasks.Api.csproj" />
+    <Project Path="src/AlcanTasks.Application/AlcanTasks.Application.csproj" />
+    <Project Path="src/AlcanTasks.Domain/AlcanTasks.Domain.csproj" />
+    <Project Path="src/AlcanTasks.Infrastructure/AlcanTasks.Infrastructure.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,10 @@
+global using System;
+global using MediatR;
+global using System.Linq;
+global using FluentValidation;
+global using System.Threading;
+global using System.Threading.Tasks;
+global using AlcanTasks.Domain.Entities;
+global using System.Collections.Generic;
+global using Microsoft.EntityFrameworkCore;
+global using AlcanTasks.Infrastructure.Data;

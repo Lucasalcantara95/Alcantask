@@ -1,0 +1,11 @@
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Threading;
+global using System.Threading.Tasks;
+global using Microsoft.AspNetCore.Mvc;
+global using MediatR;
+global using AlcanTasks.Application.Tasks.Commands;
+global using AlcanTasks.Application.Tasks.Queries;
+global using AlcanTasks.Application.DependencyInjection;
+global using AlcanTasks.Infrastructure.DependencyInjection;
